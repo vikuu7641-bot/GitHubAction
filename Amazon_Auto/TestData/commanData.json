@@ -1,0 +1,15 @@
+{
+    "Authentication": {
+        "email": "dhruvgupta6045@gmail.com",
+        "password": "dhruv555@"
+    },
+    "shippingAddress": {
+        "Country":"IN",
+        "Name": "Dhruv Gupta",
+        "StreetAddress": "Purani Bazar Gyanpur",
+        "City": "Bhadohi",
+        "State": "Uttar Pradesh",
+        "ZIPCode": "221304",
+        "PhoneNumber": "9336205802"
+    }
+}
